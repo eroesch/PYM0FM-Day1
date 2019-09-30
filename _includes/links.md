@@ -1,4 +1,6 @@
 {% include base_path.html %}
+[uor-coc]: https://eroesch.github.io/2019-20-PYM0FM/CODE_OF_CONDUCT.html
+
 [cc-by-human]: https://creativecommons.org/licenses/by/4.0/
 [cc-by-legal]: https://creativecommons.org/licenses/by/4.0/legalcode
 [ci]: http://communityin.org/
